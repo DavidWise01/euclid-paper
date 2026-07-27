@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 289
 slug  : euclid-paper
 seal  : ac88fb59422bd5905485b9d85413313ec8383c227ad19074c1f66c2fd5ed0e06
-prev  : 460fa3396d5a989b6b02b2538bd34a250d499a628298973ebaa6f527e6c091b8
-link  : ec7b41b7598be0cc51866ecc2c95fc20f100860c41421ea25803a0ba953d1ce2
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : d50530f6cc0c35ca93a9d47fa2285cac6fc3c9ee6138a515a585e8a79db6241a
+link  : 91ff5e0a5fe7cb08fb7095e2de1eacabae5f263070d7617d6bbe32e2875a7ee9
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
